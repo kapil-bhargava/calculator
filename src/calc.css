@@ -39,7 +39,7 @@
 .calculator-container{
     height: 520px;
     width: 310px;
-    background: linear-gradient(to top, #0a183a, #11264b);
+   /* background: linear-gradient(to top, #0a183a, #11264b);*/
      background-color: #8bbb3d; 
     /* background: rgba(255, 255, 255, 0.897); */
     
