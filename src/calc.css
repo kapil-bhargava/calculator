@@ -16,6 +16,10 @@
 .third::before{
     content: "";
     position: absolute;
+display:flex;
+justify-content:center;
+align-items:center;
+color:white;
     top: 0px;
     /* right: 500px; */
     /* left: 700px; */
