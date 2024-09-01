@@ -33,7 +33,7 @@ const Calc = () => {
         <>
             <div className="third">
                 <div className="calculator-container">
-                    <input type="text" placehlder="H" value={v} />
+                    <input type="text" placehlder="Kapil's Calculator" value={v} />
 
                     <div className="row-1">
                         <button className="operator-1" value="AC" onClick={Clear}>AC</button>
