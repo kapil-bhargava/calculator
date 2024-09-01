@@ -66,6 +66,9 @@
     /* box-shadow:  2px 2px 15px rgba(25, 25, 26, 0.9) inset, -2px -2px 15px rgba(181, 192, 218, 0.5) inset; */
     box-shadow:  2px 2px 15px rgba(25, 25, 26, 0.3) inset, -2px -2px 15px rgba(181, 192, 218, 0.3) inset;
 }
+input:placeholder{
+color:white;
+}
 input:focus{
     outline: none;
 }
